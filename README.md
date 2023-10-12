@@ -88,5 +88,6 @@ To use the endpoint postName:
 
 ## Contact Information
 If you have any inquiries, just look for this person or contact the provided mobile phone number.
+
 King David Reuel V. Almadrigo - 09953608245 (Globe)
 
