@@ -79,14 +79,14 @@ To use the endpoint postName:
 > To use the other endpoints, is the same as the procedure in using the endpoint postName.
 
 ## License
-- *Apache License*
--
+- *Apache License 2.0*
+- *Sirib Capstone*
 
 ## Contributors
-**King David Reuel V. Almadrigo-** Created the repository and inserted essential information for the API.
-**Erven A. Poblete-** Partner in executing the push and pull command repository for the given task.
+- **King David Reuel V. Almadrigo-** Created the repository and inserted essential information for the API.
+- **Erven A. Poblete-** Partner in executing the push and pull command to the repository for the given task.
 
 ## Contact Information
-If you have any inquiries, just look for this person or contact the provided mobilephone number.
+If you have any inquiries, just look for this person or contact the provided mobile phone number.
 King David Reuel V. Almadrigo - 09953608245 (Globe)
 
